@@ -1,4 +1,3 @@
-# Reynaldo-Massi-PR
-Aqui Você Verá A Informação de Nossa Cidade e Colégio de Diamante Do Norte - PR
-
-Sejam Muito Bem-vindos(a)
+# Minha Cidade Tem Memória e História
+A finalidade deste site é proporcionar aos alunos do Colégio Reynaldo Massi, e comunidade diamantense, o conhecimento da cidade
+em que mora. E também conhecer a história do fundador.
